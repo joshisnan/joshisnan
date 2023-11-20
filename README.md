@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Josh 👋
 
-<!--
-**joshisnan/joshisnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD student at Michigan State University studying the biophysical mechanisms of photosynthetic energy capture, storage, and conversion.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on deconvoluting spectral signals and modeling photosynthesis using ordinary differential equation models.
+- 👯 I am interested in collaborating.
+- 📫 Contact me at templejo@msu.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-%2375AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)
+
+### Find me here
+
+[ ![Sebastian Kuhlgert | LinkdeIN](https://img.shields.io/badge/LinkedIN-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/joshua-temple-40995127/)
+[ ![Joshua Temple | ResearchGate](https://img.shields.io/badge/ResearchGate-%2300ccbb.svg?&style=for-the-badge&logo=researchgate&logoColor=white) ](https://www.researchgate.net/profile/Joshua-Temple)
