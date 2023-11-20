@@ -15,5 +15,5 @@ I am a PhD student at Michigan State University studying the biophysical mechani
 
 ### Find me here
 
-[ ![Sebastian Kuhlgert | LinkdeIN](https://img.shields.io/badge/LinkedIN-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/joshua-temple-40995127/)
+[ ![Joshua Temple | LinkdeIN](https://img.shields.io/badge/LinkedIN-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/joshua-temple-40995127/)
 [ ![Joshua Temple | ResearchGate](https://img.shields.io/badge/ResearchGate-%2300ccbb.svg?&style=for-the-badge&logo=researchgate&logoColor=white) ](https://www.researchgate.net/profile/Joshua-Temple)
