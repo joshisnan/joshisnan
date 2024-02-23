@@ -2,7 +2,7 @@
 
 I am a PhD student at Michigan State University studying the biophysical mechanisms of photosynthetic energy capture, storage, and conversion.
 
-- 🔭 I’m currently working on deconvoluting spectral signals and modeling photosynthesis using ordinary differential equation models.
+- 🔭 I’m currently working on deconvoluting spectral signals from fluorescence and absorbance spectroscopic measurements and modeling photosynthesis using ordinary differential equations.
 - 👯 I am interested in collaborating.
 - 📫 Contact me at templejo@msu.edu
 
